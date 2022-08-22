@@ -1,5 +1,5 @@
   👋 Hi, I’m Chera Asefa from Jimma University.
-👀 I’m interested in Artificial Intelligence, Deep learning, Machine Learning, Medical Imaging, Computer Vision
+👀 I’m interested in Artificial Intelligence, Deep learning, Machine Learning.
 💞️ I’m looking to collaborate on Deep learning, machine learning Projects
 📫 How to reach me: Email me afetulhak@yahoo.com
 
